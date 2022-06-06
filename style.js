@@ -55,4 +55,4 @@
     }
   }
 
-})(); // End of use strict
+})(); // end of use strict
